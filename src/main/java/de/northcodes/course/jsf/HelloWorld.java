@@ -1,4 +1,4 @@
-package org.iu.industrielleinfsysteme01;
+package de.northcodes.course.jsf;
 
 import javax.faces.bean.ManagedBean;
 
